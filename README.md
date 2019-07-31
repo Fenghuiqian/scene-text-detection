@@ -21,4 +21,6 @@ Leaderboard top12%
 ![img_2](https://github.com/Fenghuiqian/scene-text-detection/blob/master/test_examples/2.png)
 ![img_3](https://github.com/Fenghuiqian/scene-text-detection/blob/master/test_examples/3.png)
 ![img_4](https://github.com/Fenghuiqian/scene-text-detection/blob/master/test_examples/4.png)
+![img_5](https://github.com/Fenghuiqian/scene-text-detection/blob/master/test_examples/loss.png)
+
 loss曲线训练约6个epoch(训练集10000imgs)后中止，继续训练可能会有更好的收敛。
